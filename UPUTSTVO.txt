@@ -1,0 +1,7 @@
+Prvo vidi ulaznu sliku:
+	-Idi open with paint iako je .dat ekstenzija
+Pokreni exe fajl. Ovaj PROv2...
+Sada pogledaj drugu sliku i vidi da li je ista kao prva i ako nije koliko odstupa
+	-Isto je otvaras preko painta iako je .dat
+	
+Ponovi par puta
